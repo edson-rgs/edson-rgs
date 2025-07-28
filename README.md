@@ -1,8 +1,8 @@
 ## Olá, eu sou o Edson Rodrigues!
 Desenvolvedor em transição de carreira com foco em Front-End e apaixonado por tecnologia, design e soluções criativas.
 Atualmente estudando HTML,CSS,JAVASCRIPT E REACT na Alura e cursando Engenharia de software.
-Buscando a Primeira oportunidade de trabalho.
-Explorando projetos práticos para montar meu portifólio e fortalecer minhas habilidades com código limpo, boas práticas e versionamento com git.
+Buscando a Primeira oportunidade de trabalho e meu sonho é um dia poder trabalhar como desenvolvedor Front-End.
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edson-rgs&show_icons=false&theme=dracula)
 
