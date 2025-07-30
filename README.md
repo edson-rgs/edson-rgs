@@ -1,11 +1,11 @@
 ## Olá, eu sou o Edson Rodrigues!
-Desenvolvedor em transição de carreira com foco em Front-End e apaixonado por tecnologia, design e soluções criativas.<br>
+🙌 Desenvolvedor em transição de carreira com foco em Front-End e apaixonado por tecnologia, design e soluções criativas.<br>
 Atualmente estudando HTML,CSS,JAVASCRIPT E REACT na Alura e cursando ENGENHARIA DE SOFTWARE.<br>
 Buscando a Primeira oportunidade de trabalho e meu sonho é um dia poder trabalhar como desenvolvedor Front-End.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edson-rgs&show_icons=false&theme=dracula)
-
+<p> 💻Tecnologias e Ferramentas</p>
 <div style="display: inline_block"><br> 
       <img src="https://skillicons.dev/icons?i=js,react,html,css,git,figma" /></a>
   </div>
