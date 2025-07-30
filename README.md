@@ -7,7 +7,7 @@ Buscando a Primeira oportunidade de trabalho e meu sonho é um dia poder trabalh
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edson-rgs&show_icons=false&theme=dracula)
 
 <div style="display: inline_block"><br> 
-      <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,react,html,css,git,figma" /></a>
+      <img src="https://skillicons.dev/icons?i=js,react,html,css,git,figma" /></a>
   </div>
 <br>
   <p aling="center">
