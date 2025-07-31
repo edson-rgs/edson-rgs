@@ -8,6 +8,19 @@ Buscando a Primeira oportunidade de trabalho e meu sonho é um dia poder trabalh
    <a href="https://instagram.com/edsonrodrigues111" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	 <a href="https://discord.com/edson096843" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
    <a href="https://www.facebook.com/edson.rodrigues.9404"  target="_blnk"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laura-grassi) 
+
+
+
+
+
+
+
+
+
+
+
   ---
 <p> 💻Linguagens e Tecnologias</p>
 <div style="display: inline_block"><br> 
