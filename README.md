@@ -1,7 +1,7 @@
 ## Olá, eu sou o Edson Rodrigues!
-🙌 Desenvolvedor em transição de carreira com foco em Front-End e apaixonado por tecnologia, design e soluções criativas.<br>
+🙌 Sou um Desenvolvedor Front-End em formação apaixonado por tecnologia, design e soluções criativas.<br>
 Atualmente estudando HTML,CSS,JAVASCRIPT E REACT na Alura e cursando ENGENHARIA DE SOFTWARE.<br>
-Buscando a Primeira oportunidade de trabalho e meu sonho é um dia poder trabalhar como desenvolvedor Front-End.
+
 <br>
 <p aling="center">
     
