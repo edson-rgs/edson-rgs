@@ -1,6 +1,6 @@
 ## Olá, eu sou o Edson Rodrigues!
-🙌 Sou um Desenvolvedor Front-End em formação apaixonado por tecnologia, design e soluções criativas.<br>
-Atualmente estudando HTML,CSS,JAVASCRIPT E REACT na Alura e cursando ENGENHARIA DE SOFTWARE.<br>
+🙌 Sou um Desenvolvedor web em formação apaixonado por tecnologia, design e soluções criativas.<br>
+Atualmente estudando JAVASCRIPT,REACT,Angular,node js e express  na Alura e cursando ENGENHARIA DE SOFTWARE.<br>
 
 <br>
 <p aling="center">
