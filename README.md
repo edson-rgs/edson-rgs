@@ -1,6 +1,11 @@
-## Olá, eu sou o Edson Rodrigues!
-🙌 Sou um Desenvolvedor web em formação apaixonado por tecnologia, design e soluções criativas.<br>
-Atualmente estudando JAVASCRIPT,REACT,Angular,node js e express  na Alura e cursando ENGENHARIA DE SOFTWARE.<br>
+👨‍💻 Olá sou o Edson Rodrigues!!<br>
+<br>
+🚀 Desenvolvedor Full Stack em formação | JavaScript | TypeScript | React | NestJS<br>
+
+Sou estudante de Engenharia de software e estou em transição de carreira para a área de desenvolvimento de software.<br>
+Atualmente foco no desenvolvimento Full Stack com JavaScript e TypeScript, criando aplicações modernas com React no front-end e NestJS no back-end.<br>
+
+Tenho interesse em construir sistemas escaláveis, APIs bem estruturadas e interfaces modernas.<br>
 
 <br>
 <p aling="center">
@@ -23,7 +28,7 @@ Atualmente estudando JAVASCRIPT,REACT,Angular,node js e express  na Alura e curs
   ---
 <p> 💻Linguagens e Tecnologias</p>
 <div style="display: inline_block"><br> 
-<img src="https://skillicons.dev/icons?i=js,react,html,css,git,figma" /></a>
+<img src="https://skillicons.dev/icons?i=html,css,figma,javascript,react,typescript,nextjs,nestjs" /></a>
 </div>
 <br>
 <p>📈Estatísticas</p>
