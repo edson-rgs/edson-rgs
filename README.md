@@ -31,9 +31,6 @@ Tenho interesse em construir sistemas escaláveis, APIs bem estruturadas e inter
 <img src="https://skillicons.dev/icons?i=html,css,figma,javascript,react,typescript,nextjs,nestjs" /></a>
 </div>
 <br>
-<p>📈Estatísticas</p>
-  
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=edson-rgs&show_icons=true&include_all_commits=true&theme=dracula&hide_border=false" alt="edson-rgs" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edson-rgs&layout=compact&theme=dracula&hide_border=false"  alt ="edson-rgs"/></a> |
-| ------------- | ------------- |
+
 
 
