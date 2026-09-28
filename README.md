@@ -1,9 +1,9 @@
 👨‍💻 Olá sou o Edson Rodrigues!!<br>
 <br>
-🚀 Desenvolvedor Full Stack em formação | JavaScript | TypeScript | React | NestJS<br>
+🚀 Desenvolvedor Full Stack em formação | JavaScript | TypeScript | React | Next.js | Node.js<br>
 
 Sou estudante de Engenharia de software e estou em transição de carreira para a área de desenvolvimento de software.<br>
-Atualmente foco no desenvolvimento Full Stack com JavaScript e TypeScript, criando aplicações modernas com React no front-end e NestJS no back-end.<br>
+Atualmente foco no desenvolvimento Full Stack com JavaScript e TypeScript, criando aplicações modernas com React no front-end e Node.js no back-end.<br>
 
 Tenho interesse em construir sistemas escaláveis, APIs bem estruturadas e interfaces modernas.<br>
 
